@@ -3,9 +3,13 @@
 TP 1er cuatrimestre
 
 C
+
 Web scrapping
+
 Archivos de texto
+
 HTML
+
 CSV
 
 
